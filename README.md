@@ -1,6 +1,5 @@
 # eagle
 
-## Devices included
 Note: not verified yet
 
 - Sensiron SHT11 humidity sensor
